@@ -1,0 +1,23 @@
+.signUp {
+    text-align: center;
+}
+
+.signUpForm input {
+    display: block;
+    display: block;
+    margin-left: 350px;
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 30%;
+    border-radius: 5px;
+}
+
+.button {
+    width: 15%;
+    padding: 5px;
+    border-radius: 7px;
+    background-color: #564d4d;
+    color: floralwhite;
+    font-size: 16px;
+    cursor: pointer;
+}
